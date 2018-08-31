@@ -1,0 +1,135 @@
+.icon {
+    background: url("https://wsa1.pakwheels.com/assets/pw-features-icons-mobile-eb200813070a23b9824636519604c297.png") no-repeat;
+    display: inline-block
+}
+
+ .icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    vertical-align: middle
+}
+
+ .icon.air_bags {
+    background-position: 0px 0px
+}
+
+ .icon.navigation_system {
+    background-position: -20px 0px
+}
+
+ .icon.air_conditioning {
+    background-position: -40px 0px
+}
+
+ .icon.am_fm_radio {
+    background-position: -60px 0px
+}
+
+ .icon.power_windows {
+    background-position: -80px 0px
+}
+
+ .icon.cassette_player {
+    background-position: 0px -20px
+}
+
+ .icon.power_steering {
+    background-position: -20px -20px
+}
+
+ .icon.cd_player {
+    background-position: -40px -20px
+}
+
+ .icon.power_locks {
+    background-position: -60px -20px
+}
+
+ .icon.sun_roof {
+    background-position: -80px -20px
+}
+
+ .icon.keyless_entry {
+    background-position: 0px -40px
+}
+
+ .icon.alloy_rims {
+    background-position: -20px -40px
+}
+
+ .icon.power_mirrors {
+    background-position: -40px -40px
+}
+
+ .icon.immobilizer_key {
+    background-position: -60px -40px
+}
+
+ .icon.cruise_control {
+    background-position: -80px -40px
+}
+
+ .icon.dvd_player {
+    background-position: 0px -60px
+}
+
+ .icon.abs {
+    background-position: -20px -60px
+}
+
+ .icon.coolbox {
+    background-position: -40px -60px
+}
+
+ .icon.usb_and_auxillary_cable {
+    background-position: -40px -80px
+}
+
+ .icon.rear_ac_vents {
+    background-position: -60px -80px
+}
+
+ .icon.front_camera {
+    background-position: -80px -80px
+}
+
+ .icon.climate_control {
+    background-position: 0px -100px
+}
+
+ .icon.heated_seats {
+    background-position: -20px -100px
+}
+
+ .icon.rear_seat_entertainment {
+    background-position: -40px -100px
+}
+
+ .icon.front_speakers {
+    background-position: -60px -100px
+}
+
+ .icon.rear_speakers {
+    background-position: -80px -100px
+}
+
+ .icon.steering_switches {
+    background-position: 0px -120px
+}
+
+ .icon.disc_brake {
+    background-position: -60px -60px
+}
+
+ .icon.led_light {
+    background-position: -80px -60px
+}
+
+ .icon.anti_theft_lock {
+    background-position: 0px -80px
+}
+
+ .icon.wind_shield {
+    background-position: -20px -80px
+}
